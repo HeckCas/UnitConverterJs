@@ -14,6 +14,11 @@ div
     height: 33.3vh;
 }
 
+#faranheit{
+    border-top: solid white 4px;
+    border-bottom:  solid white 4px;
+}
+
 input[type=number]
 {
     background-color: black;
@@ -24,5 +29,5 @@ input[type=number]
     font-size: 5em;
     border-style: none;
     font-family: Chela;
-
+    outline: none;
 }
